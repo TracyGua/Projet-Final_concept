@@ -1,14 +1,10 @@
 # Projet-Final_concept
 ## Inspirations
-<br/>
+
 Projections de thème aquatique
-<br/>
 Utilisation de la kinect
-<br/>
 Animation 3D/2D pour les vidéos
-    <br/>
     ou
-<br/>
 Logiciel MAX!
 
 ![image](https://user-images.githubusercontent.com/90851849/189187336-5518fa8a-d5a3-4582-b339-ff415811b443.png)
