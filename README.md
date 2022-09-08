@@ -1,5 +1,5 @@
 # Projet-Final_concept
-Inspirations
+##Inspirations
 <br/>
 Projections de thème aquatique
 <br/>Utilisation de la kinect
