@@ -1,6 +1,6 @@
 # Projet-Final_concept
-##Inspirations
-##Projections de thème aquatique
+Inspirations
+Projections de thème aquatique
 <br/>Utilisation de la kinect
 <br/>Animation 3D/2D pour les vidéos
     <br/>ou
